@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi everyone, i'm Linyan Yang
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" />
+<p width="45%">
+Let me introduce my profile in a few lines.
+  <ul>
+    <li>⚡ 👨🏻‍🎓 I'm an M.Sc. Student in <b>Electrical Engineering & Information Technology</b> @ TUM </li>
+    <li>🤖🦾 I'm interested in topics related to <b>Robotics, Control Theory and Machine Learning</b>
+    <li>📍Based near <b>Munich</b></li>    
+    <li> 👨🏻‍🍳 Can compile food
+  </ul>
 
-<!--
-**ly-muc/ly-muc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
