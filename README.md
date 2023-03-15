@@ -9,6 +9,8 @@ Let me introduce my profile in a few lines.
     <li>📍Based near <b>Munich</b></li>    
     <li> 👨🏻‍🍳 Can compile food
   </ul>
+  
+  For me, the potential of these technologies to revolutionize daily life is fascinating. I aim towards using my knowledge and skills to develop innovative solutions that can improve the capabilities of robots and autonomous systems.
 
 ***
 
